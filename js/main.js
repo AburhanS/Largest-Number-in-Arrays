@@ -1,4 +1,4 @@
-/* const subArrays = [
+const subArrays = [
     [4, 5, 1, 3],
     [13, 27, 18, 26],
     [32, 35, 37, 39],
@@ -19,4 +19,4 @@ for (let j = 1; j < subArrays[i].length; j++) {
 largestOfFour.push(maxValue);
 }
 
-console.log(largestOfFour); */
+console.log(largestOfFour);
